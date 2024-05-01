@@ -1,6 +1,6 @@
 // Definição de variáveis
 let nomeDoHeroi = "R.Azevedo";
-let experiencia = 10000; // eperiençia
+let experiencia = 10001; // eperiençia
 let nivel;
 
 // Estrutura de decisão para determinar o nível baseado na experiência
